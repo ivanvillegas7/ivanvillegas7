@@ -4,7 +4,7 @@ I am an **Astroparticle Physicist** specializing in indirect dark matter searche
 
 I recently completed my M.Sc. at the University of Oslo, where I conducted research within the **MAGIC Collaboration** focused on constraining dark matter density distributions using advanced computational and statistical methods. I am currently preparing my profile and sharing my research portfolio as I pursue a **PhD in Astroparticle Physics, Cosmology, or High-Energy Physics**.
 
-🌐 **Personal Webpage:** *My research website is currently under development and will be available at soon!*
+🌐 **Personal Webpage:** [https://ivanvillegas7.github.io/](https://ivanvillegas7.github.io/)
 
 ---
 
@@ -25,7 +25,7 @@ I recently completed my M.Sc. at the University of Oslo, where I conducted resea
 
 ### 🚀 Featured Repositories
 
-#### 📁 [M15_DM_Profile_Analysis](https://github.com/ivanvillegas7) *(Replace with your actual repo name/link if different)*
+#### 📁 [M15](https://github.com/ivanvillegas7/M15)
 * **Description:** The open-source pipeline for my Master's Thesis project. Features the numerical implementation and comparison of various dark matter density profiles (Einasto, NFW, cored models) and the calculation of astrophysical J-factors for the globular cluster M15 using CLUMPY. It includes stellar kinematics modeling and a study of tidal effects on expected $\gamma$-ray fluxes. 
 * **Keywords:** Astroparticle Physics, Bayesian Inference, MCMC, CLUMPY, Python.
 
@@ -33,7 +33,7 @@ I recently completed my M.Sc. at the University of Oslo, where I conducted resea
 * **Description:** A numerical implementation for computing the CMB temperature angular power spectrum using public cosmological data. Features spherical harmonic decomposition and direct comparison with theoretical predictions.
 * **Keywords:** Python, Cosmology, Numerical Modeling, Data Analysis.
 
-#### 📁 [Kepler_Exoplanet_Transits](https://github.com/ivanvillegas7) *(Replace with your actual repo name/link if different)*
+#### 📁 [Simulation-detection-and-characterization-of-exoplanet-transits-with-Kepler-space-mission](https://github.com/ivanvillegas7)(https://github.com/ivanvillegas7/Simulation-detection-and-characterization-of-exoplanet-transits-with-Kepler-space-mission)
 * **Description:** The full Python pipeline developed for my Bachelor's Thesis. Implements transit detection algorithms and data-cleaning median filters to isolate exoplanet transit signals from Kepler space mission photometric data. Characterizes planetary parameters and models systematic noise sources or stellar variability.
 * **Keywords:** Astrophysics, Transit Photometry, Signal Processing, Data Analysis, Python.
 
