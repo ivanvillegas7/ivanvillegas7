@@ -33,7 +33,7 @@ I recently completed my M.Sc. at the University of Oslo, where I conducted resea
 * **Description:** A numerical implementation for computing the CMB temperature angular power spectrum using public cosmological data. Features spherical harmonic decomposition and direct comparison with theoretical predictions.
 * **Keywords:** Python, Cosmology, Numerical Modeling, Data Analysis.
 
-#### 📁 [Simulation-detection-and-characterization-of-exoplanet-transits-with-Kepler-space-mission](https://github.com/ivanvillegas7)(https://github.com/ivanvillegas7/Simulation-detection-and-characterization-of-exoplanet-transits-with-Kepler-space-mission)
+#### 📁 [Simulation-detection-and-characterization-of-exoplanet-transits-with-Kepler-space-mission](https://github.com/ivanvillegas7/Simulation-detection-and-characterization-of-exoplanet-transits-with-Kepler-space-mission)
 * **Description:** The full Python pipeline developed for my Bachelor's Thesis. Implements transit detection algorithms and data-cleaning median filters to isolate exoplanet transit signals from Kepler space mission photometric data. Characterizes planetary parameters and models systematic noise sources or stellar variability.
 * **Keywords:** Astrophysics, Transit Photometry, Signal Processing, Data Analysis, Python.
 
