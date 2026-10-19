@@ -2,7 +2,7 @@
 
 I am an **Astroparticle Physicist** specializing in indirect dark matter searches, high-energy astrophysics and observational cosmology. My expertise centers on Bayesian statistical modeling, dark matter phenomenology, and analyzing data from ground- and space-based observatories. 
 
-I recently completed my M.Sc. at the University of Oslo, where I conducted research within the **MAGIC Collaboration** focused on constraining dark matter density distributions using advanced computational and statistical methods. I am currently preparing my profile and sharing my research portfolio as I pursue a **PhD in Astroparticle Physics, Cosmology, or High-Energy Physics**.
+I recently completed my M.Sc. at the University of Oslo, where I conducted research within the **MAGIC Collaboration** focused on constraining dark matter density distributions using advanced computational and statistical methods. I am currently preparing my profile and sharing my research portfolio as I pursue a **PhD position in Astroparticle Physics, Cosmology, or High-Energy Physics**.
 
 🌐 **Personal Webpage:** [https://ivanvillegas7.github.io/](https://ivanvillegas7.github.io/)
 
